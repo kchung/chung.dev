@@ -1,0 +1,11 @@
+/**
+ * Force all code to be wider
+ */
+
+.gatsby-highlight {
+  max-width: 100% !important;
+}
+
+.gatsby-highlight > pre {
+  max-width: 100% !important;
+}
