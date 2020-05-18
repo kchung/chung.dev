@@ -22,7 +22,7 @@ module.exports = {
   ],
   author: {
     name: 'Kevin Chung',
-    photo: '/photo.jpg',
+    photo: '/profile.jpg',
     bio: 'A software engineer in San Francisco blogging about my thoughts, learnings, and rants from the things I work on',
     contacts: {
       email: '',
